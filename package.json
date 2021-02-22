@@ -1,0 +1,39 @@
+{
+    "name": "funfunfun",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node main.js"
+    },
+    "keywords": [],
+    "author": "Beata <skorusbeata@gmail.com>",
+    "license": "ISC",
+    "dependencies": {
+        "alert": "^5.0.10",
+        "dialog": "^0.3.1",
+        "document": "^0.4.7",
+        "dupa": "^1.0.2",
+        "express": "^4.17.1",
+        "express-handlebars": "^5.2.0",
+        "hbs": "^4.1.1",
+        "mysql": "^2.18.1",
+        "prompt": "^1.1.0",
+        "prompt-sync": "^4.2.0",
+        "simple-svg-tools": "^1.1.12",
+        "socket.io": "^3.1.0"
+    },
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/BeataBarbara/nodeByBeata.git"
+    },
+    "bugs": {
+        "url": "https://github.com/BeataBarbara/nodeByBeata/issues"
+    },
+    "homepage": "https://github.com/BeataBarbara/nodeByBeata#readme"
+}
